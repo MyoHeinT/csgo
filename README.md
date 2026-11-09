@@ -14,7 +14,7 @@ A static website about Counter-Strike: Global Offensive (CS:GO), featuring an ov
 This project uses plain HTML and CSS and does not require a build step or package installation.
 
 1. Download or clone the project.
-2. Open `html/home.html` in a web browser.
+2. Open `html/index.html` in a web browser.
 3. Use the navigation links to visit the other pages.
 
 You can also serve the project directory with any static web server and open `/html/home.html`.
