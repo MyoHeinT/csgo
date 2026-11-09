@@ -30,7 +30,7 @@ You can also serve the project directory with any static web server and open `/h
 ├── fontawesome/       # Font Awesome assets
 ├── html/
 │   ├── details.html
-│   ├── home.html
+│   ├── index.html
 │   ├── register.html
 │   └── topics.html
 └── images/
@@ -41,7 +41,6 @@ You can also serve the project directory with any static web server and open `/h
 
 - HTML
 - CSS
-- Font Awesome icons
 
 The pages load a Font Awesome kit from an external URL, so an internet connection may be needed for those icons to appear.
 
