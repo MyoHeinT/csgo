@@ -1,0 +1,151 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.paragraph{
+    margin-top: 100px;
+}
+.rev{
+    margin-top: 25px;
+    text-align: center;
+}
+.rev1,.rev2,.rev3{
+    margin-top: 10px;
+}
+.button{
+    margin-top: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.container-fluid{
+    background-color: #212529;
+}
+.nav-item{
+    float: left;
+    margin-left: 100px;
+    margin-right: 50px;
+
+}
+.nav-link1{
+    margin-left: 150px;
+    text-decoration: none;
+    color: white;
+    background: none;
+    outline: none;
+    border-radius:16px;
+    border: none;
+    box-shadow:4px 4px 8px var(--Shadow1),-4px -4px 8px var(--Shadow2);
+
+}
+.nav-link2{
+    text-decoration: none;
+    color: white;
+    background: none;
+    outline: none;
+    border-radius:16px;
+    border: none;
+    box-shadow:4px 4px 8px var(--Shadow1),-4px -4px 8px var(--Shadow2);
+}
+.nav-link3{
+    text-decoration: none;
+    color: white;
+    background: none;
+    outline: none;
+    border-radius:16px;
+    border: none;
+    box-shadow:4px 4px 8px var(--Shadow1),-4px -4px 8px var(--Shadow2);
+}
+.nav-link4{
+    text-decoration: none;
+    color: white;
+    background: none;
+    outline: none;
+    border-radius:16px;
+    border: none;
+    box-shadow:4px 4px 8px var(--Shadow1),-4px -4px 8px var(--Shadow2);
+}
+.elementsContainer{
+    border-radius: 300px; /*Make conatiner to 3D shape */
+}
+.nav-link1:hover{
+    color: #1f5aff;
+    box-shadow:6px 6px 10px var(--Shadow1),-6px -6px 10px var(--Shadow2);
+}
+.nav-link1:hover{
+    box-shadow:inset 4px 4px 8px var(--Shadow1),inset -4px -4px 8px var(--Shadow2);
+    font-size: 16px;
+}
+.nav-link2:hover{
+    color: #1f5aff;
+    box-shadow:6px 6px 10px var(--Shadow1),-6px -6px 10px var(--Shadow2);
+}
+.nav-link2:hover{
+    box-shadow:inset 4px 4px 8px var(--Shadow1),inset -4px -4px 8px var(--Shadow2);
+    font-size: 16px;
+}
+.nav-link3:hover{
+    color: #1f5aff;
+    box-shadow:6px 6px 10px var(--Shadow1),-6px -6px 10px var(--Shadow2);
+}
+.nav-link3:hover{
+    box-shadow:inset 4px 4px 8px var(--Shadow1),inset -4px -4px 8px var(--Shadow2);
+    font-size: 16px;
+}
+.nav-link4:hover{
+    color: #1f5aff;
+    box-shadow:6px 6px 10px var(--Shadow1),-6px -6px 10px var(--Shadow2);
+}
+.nav-link4:hover{
+    box-shadow:inset 4px 4px 8px var(--Shadow1),inset -4px -4px 8px var(--Shadow2);
+    font-size: 16px;
+}
+:root
+{
+--bg1: #040406;
+--bg2: #323234;
+--boxShadow: #010203;
+--Shadow1:#040406;
+--Shadow2:#444446;
+--SforIcon1: #2a2b2c;
+--SforIcon2: #020305;
+}
+*{
+box-sizing: border-box;
+user-select: none;
+}
+.search-box{
+    background: #212529;
+    height: 40px;
+}
+.search-btn{
+    margin-left: 20px;
+    color: #DEE2E6;
+    border-radius: 50%;
+    box-shadow:4px 4px 8px var(--Shadow1),-4px -4px 8px var(--Shadow2);
+
+}
+.search-btn:hover{
+        box-shadow:inset 4px 4px 8px var(--Shadow1),inset -4px -4px 8px var(--Shadow2);
+        font-size: 16px;
+}
+.search-btn:hover{
+    color: #1f5aff;
+    box-shadow:6px 6px 10px var(--Shadow1),-6px -6px 10px var(--Shadow2);
+}
+.search-txt{
+    background: none;   
+    outline: none;
+    float: left;
+    padding: 0;
+    color: #DEE2E6;
+    transition: 0.4s;
+}
+.image{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+
+.border{
+    text-align: center;
+}
